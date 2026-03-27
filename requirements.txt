@@ -1,10 +1,12 @@
 pandas
 numpy
 xgboost
-scikit-learn
+#scikit-learn
 matplotlib
 seaborn
 streamlit
 joblib
 catboost
 gensim
+streamlit>=1.30
+altair<5
