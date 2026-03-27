@@ -4,9 +4,9 @@ xgboost
 #scikit-learn
 matplotlib
 seaborn
-streamlit
+#streamlit
 joblib
 catboost
 gensim
 streamlit>=1.30
-altair<5
+#altair<5
